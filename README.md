@@ -21,11 +21,11 @@
 
 8. 프로그램 실행
    ``` python app.py ```
-   
+
 브라우저에서 http://127.0.0.1:5000로 접속하여 이름과 전화번호를 입력하고 저장할 수 있다.
 
 ![image](https://github.com/user-attachments/assets/4db9cb19-4962-43b2-8c4d-68d8dedaf5f1)
 
 9. addbook.txt에 저장된 모습
-10. 
+
 ![image](https://github.com/user-attachments/assets/0f792852-a86e-41ba-adcc-39e19cf3b847)
