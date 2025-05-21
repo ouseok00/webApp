@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Address Book</title>
+    <link rel="sytlesheet" href="static/css/style.css">
+</head>
+<body>
+    <h1>Address Book</h1>
+    <form action="/add" method="post">
+        <label for="name" class="name">이름:</label>
+        <input type="text" id="name" name="name" required>
+        <br><br>
+        <label for="phone">전화번호:</label>
+        <input type="text" id="phone" name="phone" required>
+        <br><br>
+        <button type="submit">전송</button>
+    </form>
+</body>
+</html>
